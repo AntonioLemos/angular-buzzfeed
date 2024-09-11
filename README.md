@@ -1,27 +1,21 @@
-# AngularBuzzfeed
+# Quiz Herói ou Vilão
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+## Descrição
 
-## Development server
+Este projeto é um simples quiz em Angular para descobrir se você é um herói ou vilão. Ele consiste em uma única página inicial com perguntas e respostas que determinam seu perfil com base nas suas respostas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+- **Página Inicial:** Exibição de perguntas com opções de resposta.
+- **Resultado:** Mostra se você é um herói ou vilão com base nas suas respostas.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias
 
-## Build
+- Angular
+- TypeScript
+- HTML/CSS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+![image](https://github.com/user-attachments/assets/1b95393d-1a86-44b6-a2fb-51522da5230a)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/user-attachments/assets/18a37752-5797-4b63-ad6f-77559b3a162f)
